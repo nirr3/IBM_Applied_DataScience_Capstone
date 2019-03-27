@@ -12,6 +12,7 @@ This Repo was created to fullfil the requirements of the Applied Data Science Ca
 ## IBM Applied Data Science Markdown.ipynb:
 
 This python notebook was created to pull information from using FourSquare's API as a part of the first weeks homework. The section where the API Key and Secret needs to be enteres has been X:ed out. To be able to reproduce one would need to sign up for a free developer account here:
+
 https://developer.foursquare.com/
 
 ## Toronto Webscraping with Foursquare
@@ -34,7 +35,7 @@ A major concern for lenders is being left out of the conversation when a potenti
 
 In many cases the car-dealers are offering the person who is buying a car a loan and many insurance policies that are significantly marked-up. By enabling financial instutitions to understand when someone is at a car dealership, they are able to help reduce the borrowers total cost of ownership a lot and gives them a better negotiating position with the dealer.
 
-## The Data
+### The Data
 As a prototype, Foursquare location data will be used for the Chicago area. Using this information with some coordinate data, we will calculate the distance from the dealership and create a flag whether or not we believe this individual is at a car dealership.
 
 We will also use data from a local csv file with examples of people, their location coordinates (longitude and latitude) and their email addresses.
